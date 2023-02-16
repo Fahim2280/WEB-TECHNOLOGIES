@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Contact Us</title>
+</head>
+
+<body>
+    <div>
+        <?php
+        include 'banner.php';
+        ?>
+    </div>
+    <div id="container">
+        <div id="header">
+            <h1>My Website</h1>
+        </div>
+        <div id="menu">
+            <ul>
+                <li><a href="About.html">About</a></li>
+                <li><a href="Education.html">Education</a></li>
+                <li><a href="Project.html">Projrct</a></li>
+            </ul>
+        </div>
+        <div id="content">
+            <h2>Contact Us</h2>
+            <h3>Address</h3>
+            <p>House: 309, Road: N/A, Block: N/A, Section: N/A, Sarulia Demra, Dhaka-1361</p>
+            <h3>Phone</h3>
+            <p>01745143638</p>
+            <p>01974217199</p>
+            <h3>Email</h3>
+            <p>kfahim2280@gmail.com</p>
+            <p>20-42517-1@student.aiub.edu</p>
+</body>
+
+</html>
