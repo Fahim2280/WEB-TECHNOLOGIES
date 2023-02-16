@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <fieldset>
+    <fieldset style="background-color: DodgerBlue">
         <label>Search</label>
         <label><input type="text"></label>
         <label><a href="Home.php">Home</a></label>
