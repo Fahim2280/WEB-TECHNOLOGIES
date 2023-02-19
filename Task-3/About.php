@@ -32,6 +32,11 @@
             </p>
         </div>
     </div>
+    <div>
+        <?php
+        include 'footer.php';
+        ?>
+    </div>
 
 </body>
 

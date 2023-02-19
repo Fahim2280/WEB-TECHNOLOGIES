@@ -32,6 +32,11 @@
             <h3>Email</h3>
             <p>kfahim2280@gmail.com</p>
             <p>20-42517-1@student.aiub.edu</p>
+            <div>
+                <?php
+                include 'footer.php';
+                ?>
+            </div>
 </body>
 
 </html>

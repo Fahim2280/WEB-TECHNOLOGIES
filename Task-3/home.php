@@ -28,6 +28,11 @@
                 This is my website. I am Md Fahim Alam. I am a student of AIUB. I am a student of CSE. I am a student of 20th batch.
             </p>
         </div>
+        <div>
+            <?php
+            include 'footer.php';
+            ?>
+        </div>
 </body>
 
 </html>
